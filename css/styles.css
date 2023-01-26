@@ -1,0 +1,67 @@
+*{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    color:darkviolet;
+    font-size: 48px;
+}
+
+
+table{
+    margin: 0 auto;
+    border: solid 1px black;
+    background-color: white;
+    
+}
+
+td{
+    border: solid 1px black;
+    background-color: white;
+}
+
+#table_form{
+    text-align: center;
+}
+
+input[type="number"]{
+    background-color: white;
+}
+
+input[type="submit"]{
+    background-color: darkviolet;
+    color: white;
+}
+
+input[type="submit"]:hover{
+    background-color: white;
+    color: black;
+}
+
+#Personal{
+  
+    margin-top: 100px;
+}
+
+#image{
+    float:left;
+    margin-left: 30%;
+}
+
+#personal_info{
+    width: 20%;
+    float: left;
+    padding: 5%;
+}
+
+
+#footer{
+    clear: both;
+    position: relative;
+    bottom: 0;
+    text-align: right;
+    font-size: x-small;
+    width:99%;
+}
+
